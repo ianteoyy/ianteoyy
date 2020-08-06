@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my portfolio at [https://ianteoyy.github.io](https://ianteoyy.github.io)
 
-- 📫 How to reach me **teoyeetyang@gmail.com**
+- 📫 Email me @ **teoyeetyang@gmail.com**
 
 - ⚡ Fun fact **Decent Louis Armstrong impression at the karaoke!**
 
