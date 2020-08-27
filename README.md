@@ -3,7 +3,7 @@
 
 - 🏫 Learnt web development at [Next Academy](https://www.nextacademy.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **VueJS!**
 
 - 👨‍💻 Check out my portfolio at [https://ianteoyy.github.io](https://ianteoyy.github.io)
 
