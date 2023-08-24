@@ -3,11 +3,11 @@
 
 - 🏫 Learnt web development at [Next Academy](https://www.nextacademy.com/)
 
-- 🌱 I’m currently learning **VueJS!**
+- 🌱 I’m currently using **VueJS!**
 
-- 👨‍💻 Check out my portfolio at [https://ianteoyy.github.io](https://ianteoyy.github.io)
+- 👨‍💻 Check out my portfolio at [https://www.wafflemooncake.dev](https://www.wafflemooncake.dev)
 
-- 📫 Email me @ **teoyeetyang@gmail.com**
+- 📫 Email me @ **hello@wafflemooncake.dev**
 
 - ⚡ Fun fact **Decent Louis Armstrong impression at the karaoke!**
 
